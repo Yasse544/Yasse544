@@ -4,8 +4,9 @@
 
 - Escuchar musica,mi album favorito de Madvillain
   
-   <img src="https://raw.githubusercontent.com/Yasse544/Yasse544/main/Madvillain-Madvillainy-SP.jpg" 
-     alt="Miniatura del video" style="width:40%; max-width:480px;">
+   <img src="https://github.com/Yasse544/Yasse544/blob/main/81MJUW7iUaL.jpg" style="width:20%;">
+   <img src="https://github.com/Yasse544/Yasse544/blob/main/Frank-Ocean-Blond.jpg" style="width:20%;">
+   <img src=" https://github.com/Yasse544/Yasse544/blob/main/a1024330960_16.jpg" style="width:30%;">
 
 - Jugar a videojuegos,mi Juego que mas me ha marcado es el de Persona 4 Golden
   
