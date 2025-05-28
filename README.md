@@ -25,3 +25,6 @@ Lista enumerada
    <!--Comentario no visible-->
 
 
+   ![Imagen Feraligar]
+
+
