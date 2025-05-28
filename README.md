@@ -14,6 +14,10 @@
 
  - Estudio DAW (desarollo de aplicaciones Web)
    
+   <img src= "https://github.com/Yasse544/Yasse544/blob/main/cropped-miniklogo25_cabecera_-scaled-1.jpg"  
+  style="width:30%; max-width:480px;" />
+
+   
   
 
    <!--Comentario no visible-->
