@@ -2,7 +2,7 @@
 
 #### Tengo muchas aficiones entre las cuales se encuentran:
 
-- Escuchar musica,mi album favorito de Madvillain
+- Escuchar musica,mi album favorito es Madvillain
   
    <img src="https://github.com/Yasse544/Yasse544/blob/main/a1024330960_16.jpg" style="width:15%;">
    <img src="https://github.com/Yasse544/Yasse544/blob/main/Frank-Ocean-Blond.jpg" style="width:15%;">
